@@ -1,0 +1,5 @@
+user login into git hub
+
+git remote set-url origin https://yourusername@github.com/user/repo.git
+
+
